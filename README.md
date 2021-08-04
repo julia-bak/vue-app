@@ -1,6 +1,10 @@
 # vue-practice-app
 
-for using app: login: j@mail.ru password: 111111
+for using app:
+https://vue-bank-17e00.web.app/
+
+login: j@mail.ru
+password: 111111
 
 ## Project setup
 
